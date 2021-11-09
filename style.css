@@ -1,0 +1,11 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    min-width: 400px;
+}
+
+html[Attributes Style] {
+    -webkit-locale: "en-IN";
